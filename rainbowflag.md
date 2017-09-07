@@ -1,3 +1,8 @@
+  ---
+title: Rainbow Flag
+permalink: mypageurl.html
+---
+  
   <br />
   <br />
   <br />

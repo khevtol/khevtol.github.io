@@ -1,9 +1,4 @@
 
----
-
-site.title: "Rainbow Flag"
-
----
 
 
   <br />

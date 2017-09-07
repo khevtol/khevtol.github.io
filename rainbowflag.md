@@ -1,4 +1,4 @@
-title: Rainbow Flag
+page.title: Rainbow Flag
 ---
 
 

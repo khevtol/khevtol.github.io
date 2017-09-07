@@ -1,7 +1,7 @@
 title: Cytoso.me
 description: For all your placeholder needs
 show_downloads: false
-google_analytics:
+google_analytics: UA-106145185-1
 theme: jekyll-theme-cayman
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 permalink: pretty

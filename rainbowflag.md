@@ -1,5 +1,3 @@
-page.title: Rainbow Flag
----
 
 
   <br />

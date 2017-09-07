@@ -3,3 +3,5 @@ description: Experimental Project Repository
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
+permalink: pretty
